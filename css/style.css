@@ -25,9 +25,10 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
-}
+  font-family: 'Helvetica', serif;
+  color: rgb(255, 255, 255);
+  text-shadow: -1px aqua;
+  }
 
 h1 {
   font-size: 3.5em;
